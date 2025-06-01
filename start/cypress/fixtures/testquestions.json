@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "aaaaaaaaaaaa",
+        "question": "What does CSS do?",
+        "options": [
+            "a. Cypress System Sorting",
+            "b. Cascading Style Sheets",
+            "c. Custom Styling System",
+            "d. Creative Style Standard"
+        ],
+        "answer": "b. Cascading Style Sheets"
+    },
+    {
+        "_id": "bbbbbbbbbbbb",
+        "question": "What is NOT an example of a Javascript framework?",
+        "options": [
+            "a. Node",
+            "b. React",
+            "c. Flask",
+            "d. Vue"
+        ],
+        "answer": "c. Flask"
+    },
+    {
+        "_id": "cccccccccccc",
+        "question": "What is bootstrap framework used for?",
+        "options": [
+            "a. Connect the front end to the back end",
+            "b. Create a security key",
+            "c. Deploy the website to be publicly viewable",
+            "d. Provide a pre-designed template for CSS and Javascript"
+        ],
+    }
+]
